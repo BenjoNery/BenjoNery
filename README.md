@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenjoNery
 - 👀 I’m interested in learning java language
 - 🌱 I’m currently learning java,python,html,c/c++
-- 💞️ I’m looking to collaborate on Web development and Data
+- 💞️ I’m looking to collaborate on Web development and Data Analist
 - 📫 How to reach me Gmail: agraim.rebejoe2@gmail.com FB: Rebejoe Agriam
 
 <!---
